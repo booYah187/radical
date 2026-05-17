@@ -1,5 +1,5 @@
 Radical Ed python screensaver
-![Alt text](https://github.com/booYah187/radical/blob/main/screenshot.png?raw=true)
+![Alt text](https://github.com/booYah187/radical/blob/main/radical.gif?raw=true)
 
 open radical.py, adjust WIDTH, HEIGHT = to your resolution, may need to adjust x = and y = under WARNING POPUP to recenter. 
 
