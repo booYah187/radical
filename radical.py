@@ -9,7 +9,7 @@ import sys
 # CONFIG
 # =========================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-WIDTH, HEIGHT = 1338, 854
+WIDTH, HEIGHT = 1338, 853
 FPS = 60
 
 ORANGE = (255, 140, 0)
